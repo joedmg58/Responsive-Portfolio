@@ -46,6 +46,8 @@ a {
     text-decoration: none;
 }
 
+
+
 .about {
     background-color: #ffffff;
     border: 2px solid #dddddd;
@@ -123,6 +125,10 @@ footer {
     padding: 10px 0;
     position: absolute;
     bottom: 20px;
+}
+
+.itemLink {
+    color: white;
 }
 
 .itemPic {
