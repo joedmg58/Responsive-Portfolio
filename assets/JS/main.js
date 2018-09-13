@@ -32,7 +32,7 @@ var portfolio = [
     },
     {
         name: "Parking Ticket Reinbursement",
-        img: "assets/images/ptr.png",
+        img: "assets/images/ptr.PNG",
         href: "https://joedmg58.github.io/PTR/index.html",
         git: "https://github.com/joedmg58/PTR"
     },
@@ -56,7 +56,7 @@ var portfolio = [
     }, */
     {
         name: "Friend Finder",
-        img: "assets/images/friendFinder.png",
+        img: "assets/images/friendFinder.PNG",
         href: "https://jm58-friend-finder.herokuapp.com/",
         git: "https://github.com/joedmg58/friendFinder"
     },
@@ -68,7 +68,7 @@ var portfolio = [
     },
     {
         name: "Doula Services",
-        img: "assets/images/doula.png",
+        img: "assets/images/doula.PNG",
         href: "https://github.com/joedmg58/Doula-Services",
         git: "https://github.com/joedmg58/Doula-Services"
     }  
