@@ -4,66 +4,73 @@ var portfolio = [
         name: "Hangman",
         img: "assets/images/hangman.png",
         href: "https://joedmg58.github.io/Word-Guess-Game/index.html",
-        git: ""
+        git: "https://github.com/joedmg58/Word-Guess-Game"
     },
     {
         name: "Crystal collector",
         img: "assets/images/crystals_shot.png",
         href: "https://joedmg58.github.io/Crystal-Collector/index.html",
-        git: ""
+        git: "https://github.com/joedmg58/Crystal-Collector"
     },
     {
         name: "Trivia Game",
         img: "assets/images/Trivia.PNG",
         href: "https://joedmg58.github.io/TriviaGame/index.html",
-        git: ""
+        git: "https://github.com/joedmg58/TriviaGame"
     },
     {
         name: "GifTastic",
         img: "assets/images/giftastic.gif",
         href: "https://joedmg58.github.io/GifTastic/index.html",
-        git: ""
+        git: "https://github.com/joedmg58/GifTastic"
     },
     {
         name: "Train Schedule",
         img: "assets/images/train_schedule.jpg",
-        href: "https://joedmg58.github.io/trainSchedule/index.html"
+        href: "https://joedmg58.github.io/trainSchedule/index.html",
+        git: "https://github.com/joedmg58/trainSchedule"
     },
     {
         name: "Parking Ticket Reinbursement",
         img: "assets/images/ptr.png",
-        href: "https://joedmg58.github.io/PTR/index.html"
+        href: "https://joedmg58.github.io/PTR/index.html",
+        git: "https://github.com/joedmg58/PTR"
     },
     {
         name: "Rock Paper Scissor",
         img: "assets/images/rock.PNG",
-        href: "https://joedmg58.github.io/RPS-Game/index.html"
+        href: "https://joedmg58.github.io/RPS-Game/index.html",
+        git: "https://github.com/joedmg58/RPS-Game"
     },
     {
         name: "LIRI-Bot",
         img: "assets/images/liribot.jpg",
-        href: "",
+        href: "#",
         git: "https://github.com/joedmg58/liri-node-app"
     },
-    {
+    /* {
         name: "Bamazon",
         img: "",
-        href: ""
-    },
+        href: "https://github.com/joedmg58/bamazon",
+        git: "https://github.com/joedmg58/bamazon"
+    }, */
     {
         name: "Friend Finder",
-        img: "",
-        href: ""
+        img: "assets/images/friendFinder.png",
+        href: "https://jm58-friend-finder.herokuapp.com/",
+        git: "https://github.com/joedmg58/friendFinder"
     },
     {
         name: "Eat-Da-Burger",
-        img: "",
-        href: ""
+        img: "assets/images/burger.png",
+        href: "https://github.com/joedmg58/burger",
+        git: "https://github.com/joedmg58/burger"
     },
     {
-        name: "Doula Service",
-        img: "",
-        href: ""
+        name: "Doula Services",
+        img: "assets/images/doula.png",
+        href: "https://github.com/joedmg58/Doula-Services",
+        git: "https://github.com/joedmg58/Doula-Services"
     }  
 ];
 
